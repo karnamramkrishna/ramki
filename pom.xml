@@ -72,6 +72,5 @@
         </plugin>
       </plugins>
     </pluginManagement>
-	<filename>ramki</filename>
-  </build>
+	  </build>
 </project>
